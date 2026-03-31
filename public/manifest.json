@@ -1,0 +1,23 @@
+{
+  "name": "Enneagram Explorer",
+  "short_name": "Enneagram",
+  "description": "Discover your Enneagram personality type and explore the depths of your inner motivations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/enneagram-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/enneagram-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
